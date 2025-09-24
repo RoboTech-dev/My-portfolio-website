@@ -1,2 +1,7 @@
 # My-portfolio-website
 The portfolio website of Derrick Naibei Ndiema is a professional online platform created to present my skills, projects, and expertise as an IT specialist, software developer, and programmer. It acts as a digital resume and personal brand, offering visitors a clear overview of my background, technical abilities, and accomplishments.
+The website features a modern, responsive design that works seamlessly across devices, with both light and dark modes for user preference. Its structure is simple yet effective, consisting of key sections such as Home, About, Projects, and Contact. The Home page provides an introduction with a profile photo, greeting, and role description. The About section outlines my professional background and technical skills, while the Projects section highlights completed work, demonstrating practical experience and problem-solving ability. A downloadable CV and “Hire Me” call-to-action are integrated to make it easy for potential employers or clients to access my credentials.
+
+The Contact section includes a form, email, phone number, and links to social media profiles, ensuring smooth communication. Interactive navigation, hover effects, and social icons add to the site’s usability and visual appeal.
+
+Overall, the portfolio website serves as a comprehensive, user-friendly platform that showcases who I am, what I can do, and how to connect with me, helping me stand out in professional and career opportunities.
